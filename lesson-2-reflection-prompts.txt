@@ -22,3 +22,5 @@ we get commit with changes from tops of both branches. The way it represented is
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+If there no conflic, there no purpose to do merge manually. It would be annoying to do merge manually every time you wanna merge. It's only for control freaksI suppose
+
